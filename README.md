@@ -10,3 +10,14 @@ you can easily find three python files: "BRNet.py", "buildLBDinputs.py" and "cal
 1. run "buildLBDinputs.py" to generate the LBD inputs of Kodak image dataset with different bit depth.
 2. run "BRNet.py" to generate the restored images from LBD inputs.
 3. run "calcPSNR.py" to calculate the PSNR/SSIM/W-dis results.
+
+## Citation
+Please kindly cite our paper if it is useful for you.
+
+@misc{liu2022,
+  doi = {10.48550/ARXIV.2204.12039}, 
+  author = {Liu, Yuqing and Jia, Qi and Zhang, Jian and Fan, Xin and Wang, Shanshe and Ma, Siwei and Gao, Wen},  
+  title = {Learning Weighting Map for Bit-Depth Expansion within a Rational Range},  
+  publisher = {arXiv},  
+  year = {2022},  
+}
