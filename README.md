@@ -13,12 +13,13 @@ you can easily find three python files: "BRNet.py", "buildLBDinputs.py" and "cal
 
 ## Citation
 Please kindly cite our paper when using this project for your research.
+
 '''
-@misc{liu2022,
-  doi = {10.48550/ARXIV.2204.12039}, 
-  author = {Liu, Yuqing and Jia, Qi and Zhang, Jian and Fan, Xin and Wang, Shanshe and Ma, Siwei and Gao, Wen},  
-  title = {Learning Weighting Map for Bit-Depth Expansion within a Rational Range},  
-  publisher = {arXiv},  
-  year = {2022},  
-}
+  @misc{liu2022,
+    doi = {10.48550/ARXIV.2204.12039}, 
+    author = {Liu, Yuqing and Jia, Qi and Zhang, Jian and Fan, Xin and Wang, Shanshe and Ma, Siwei and Gao, Wen},  
+    title = {Learning Weighting Map for Bit-Depth Expansion within a Rational Range},  
+    publisher = {arXiv},  
+    year = {2022},  
+  }
 '''
